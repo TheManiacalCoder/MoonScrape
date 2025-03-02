@@ -1,11 +1,11 @@
 {
-    "email": "sean@mediamasters.ca",
-    "api_key": "43dd9ffafc698610",
+    "email": "dataforseo.com_email",
+    "api_key": "dataforseo.com_API",
     "openrouter": {
-        "api_key": "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",
+        "api_key": "openrouter.com_API_KEY",
         "ai_model": "deepseek/deepseek-r1-distill-llama-8b"
     },
     "search": {
-        "api_key": "your_search_api_key"
+        "api_key": "your_search_api_key_IGNORE"
     }
 }
